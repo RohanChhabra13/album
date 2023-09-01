@@ -1,0 +1,3 @@
+name=Sankalp
+age=23
+city=Gwalior
